@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/eayoungs/repo/Code/Sandbox/Web",
+			"file_exclude_patterns": [".*	"] 
+		},
+	],
+	/*"settings":
+	{
+		"tab_size": 20
+	}*/
+}
